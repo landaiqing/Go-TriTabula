@@ -1,0 +1,9 @@
+{
+  "driver": "mysql",
+  "url": "127.0.0.1:3306",
+  "database": "schisandra-cloud-album",
+  "username": "root",
+  "password": "1611",
+  "maxOpenConns": 100,
+  "maxIdleConns": 10
+}
